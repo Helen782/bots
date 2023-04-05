@@ -1,6 +1,6 @@
 <?php
-	$auth_token = 'AUTH_TOKEN';
-	$webhook = 'WEBHOOK_URL';
+	$auth_token = '50d46798e967e52f-6da7434069566a67-7e048c51ad7cdc5a';
+	$webhook = 'http://iplaces.ru/deplov/Спортик_бот';
 	
 	$jsonData = 
 	'{
